@@ -1,0 +1,134 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #190477;
+}
+#PSU_image {
+    position: absolute;
+    width: 120px;
+    height: 150px;
+    left: 25px;
+    top: 2px;
+}
+h1 {
+    position: absolute;
+    width: 485px;
+    height: 80px;
+    left: 200px;
+    top: 0px;
+
+    font-family: 'Copse';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 87px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+.title {
+    /* Rectangle 5 */
+
+    position: absolute;
+    width: 885px;
+    height: 176px;
+    left: 298px;
+    top: 201px;
+    background: #00B7FF;
+    
+    
+    position: absolute;
+    width: 704px;
+    height: 91px;
+    left: calc(50% - 704px/2);
+    top: calc(50% - 91px/2 - 222.5px);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+
+}
+.buttonStyle {
+    position: absolute;
+    width: 440px;
+    height: 267px;
+    left: 25px;
+    top: 436px;
+    background: #00B7FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.buttonStyle2 {
+    /* Ellipse 7 */
+    position: absolute;
+    width: 440px;
+    height: 267px;
+    left: 500px;
+    top: 436px;
+
+    background: #00B7FF;
+
+}
+.buttonStyle3 {
+    /* Ellipse 10 */
+
+    position: absolute;
+    width: 440px;
+    height: 267px;
+    left: 975px;
+    top: 436px;
+
+    background: #00B7FF;
+
+}
+.buttonStyle4 {
+    /* Ellipse 8 */
+
+position: absolute;
+width: 440px;
+height: 267px;
+left: 224px;
+top: 715px;
+
+background: #00B7FF;
+
+}
+.buttonStyle5 {
+    /* Ellipse 9 */
+
+position: absolute;
+width: 440px;
+height: 267px;
+left: 758px;
+top: 703px;
+
+background: #00B7FF;
+
+}
+#forkAndKnife {
+    /* restaurant_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 132px;
+height: 131px;
+left: 642px;
+top: 62px;
+border: 1px solid #FFFFFF;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
